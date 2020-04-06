@@ -12,6 +12,7 @@ public class Testowa {
 		System.out.println("Hallo1");
 		System.out.println("Hallo2");
 		System.out.println("Hallo3");
+		System.out.println("Hallo4");
 	}
 
 }
