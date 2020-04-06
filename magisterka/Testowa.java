@@ -10,6 +10,7 @@ public class Testowa {
 		System.out.println("google.pl");
 		System.out.println("C:\\Users\\adrii\\.p2\\pool\\features");
 		System.out.println("Hallo1");
+		System.out.println("Hallo2");
 	}
 
 }
