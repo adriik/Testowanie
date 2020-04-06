@@ -6,6 +6,7 @@ public class Testowa {
 
 
 
+		
 		System.out.println("192.168.0.1");
 		System.out.println("192.168.0.2:6000");
 		
