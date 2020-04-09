@@ -20,6 +20,7 @@ public class Testowa {
 		System.out.println("Master");
 		System.out.println("HalloA");
 		System.out.println("HalloB");
+		System.out.println("HalloAA");
 	}
 
 }
