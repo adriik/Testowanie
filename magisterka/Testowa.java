@@ -17,6 +17,7 @@ public class Testowa {
 		System.out.println("Hallo3");
 		System.out.println("Hallo4");
 		System.out.println("Hallo5");
+		System.out.println("HalloA");
 	}
 
 }
