@@ -18,6 +18,8 @@ public class Testowa {
 		System.out.println("Hallo4");
 		System.out.println("Hallo5");
 		System.out.println("Master");
+		System.out.println("HalloA");
+		System.out.println("HalloB");
 	}
 
 }
