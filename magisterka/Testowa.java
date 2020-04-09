@@ -23,6 +23,7 @@ public class Testowa {
 		System.out.println("HalloAA");
 		System.out.println("HalloBB");
 		System.out.println("HalloAAA");
+		System.out.println("HalloCCC");
 	}
 
 }
