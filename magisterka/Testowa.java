@@ -26,6 +26,7 @@ public class Testowa {
 		System.out.println("HalloCCC");
 		System.out.println("HalloBBB");
 		System.out.println("Masterowo");
+		System.out.println("Mozliwosc1");
 	}
 
 }
