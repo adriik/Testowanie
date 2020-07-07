@@ -22,6 +22,9 @@ public class Testowa {
 		System.out.println("HalloB");
 		System.out.println("HalloAA");
 		System.out.println("HalloBB");
+		System.out.println("HalloAAA");
+		System.out.println("HalloCCC");
+		System.out.println("HalloBBB");
 	}
 
 }
