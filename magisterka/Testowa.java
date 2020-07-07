@@ -9,7 +9,7 @@ public class Testowa {
 		
 		System.out.println("192.168.0.1");
 		System.out.println("192.168.0.2:6000");
-		System.out.println("192.168.0.2:60001");
+		
 		System.out.println("google.pl");
 		System.out.println("C:\\Users\\adrii\\.p2\\pool\\features");
 		System.out.println("Hallo1");
@@ -25,8 +25,8 @@ public class Testowa {
 		System.out.println("HalloAAA");
 		System.out.println("HalloCCC");
 		System.out.println("HalloBBB");
-		System.out.println("Masterowo");
 		System.out.println("Mozliwosc1");
+		System.out.println("Masterowo");
 	}
 
 }
