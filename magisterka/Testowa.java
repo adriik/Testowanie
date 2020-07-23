@@ -1,5 +1,8 @@
 package magisterka;
 
+import java.util.LinkedList;
+import java.util.List;
+
 public class Testowa {
 
 	public static void main(String[] args) {
@@ -27,6 +30,12 @@ public class Testowa {
 		System.out.println("HalloBBB");
 		System.out.println("Mozliwosc1");
 		System.out.println("Masterowo");
+
+		String message = "https://twitter.com/ciekawe/co";
+		int startIndex = message.indexOf("https://twitter.com/");
+		int endIndex = message.indexOf(" ", startIndex);
+		System.out.println(startIndex);
+		
 	}
 
 }
