@@ -2,7 +2,7 @@ name: Feature request
 description: Suggest an idea fo IMS Checker
 title: "[VOC]"
 labels: [bug]
-assignees: ''
+assignees: ""
 
 body:
   - type: textarea
