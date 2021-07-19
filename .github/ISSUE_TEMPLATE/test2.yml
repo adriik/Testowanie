@@ -1,0 +1,23 @@
+name: Feature request
+description: Suggest an idea fo IMS Checker
+title: "[VOC]"
+labels: [bug]
+assignees:
+
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: Festure request
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+    validations:
+      required: false
